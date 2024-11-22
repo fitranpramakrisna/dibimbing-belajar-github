@@ -1,3 +1,4 @@
+# create function to count row
 import pandas as pd
 
 def read_csv(path):
